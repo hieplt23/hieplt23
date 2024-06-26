@@ -2,21 +2,9 @@
 Hello, I am Hiep Le, an AI and C++ programmer. I am interested in machine learning, computer vision, algorithms, and continually updating myself with the latest technologies and techniques.<br>
 ## 📫 How to reach me: 
 
- [![Mail](https://files.softicons.com/download/application-icons/mac-os-apps-icons-4-by-hamza-saleem/png/256x256/Mail.png) Gmail](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-
-### WELCOME TO MY PAGE 👋👋👋
-Hello, I am Hiep Le, an AI and C++ programmer. I am interested in machine learning, computer vision, algorithms, and continually updating myself with the latest technologies and techniques.<br>
-## 📫 How to reach me: 
-
  Email: lethanhhiep0220@gmail.com
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="Python" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
