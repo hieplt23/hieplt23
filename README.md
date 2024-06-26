@@ -2,7 +2,7 @@
 Hello, I am Hiep Le, an AI and C++ programmer. I am interested in machine learning, computer vision, algorithms, and continually updating myself with the latest technologies and techniques.<br>
 ## 📫 How to reach me: 
 
- [![Mail](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+ [![Mail](https://files.softicons.com/download/application-icons/mac-os-apps-icons-4-by-hamza-saleem/png/256x256/Mail.png) Gmail](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
