@@ -1,4 +1,6 @@
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Hiep." src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
 ### WELCOME TO MY PAGE 👋👋👋
 Hello, I am Hiep Le, an AI and C++ programmer. I am interested in machine learning, computer vision, algorithms, and continually updating myself with the latest technologies and techniques.<br>
 ## 📫 How to reach me: 
