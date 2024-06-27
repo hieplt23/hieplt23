@@ -9,7 +9,13 @@ Hello, I am Hiep Le, an AI and C++ programmer. I am interested in machine learni
 
 #### Top Repositories
 
+<a href="https://github.com/hieplt23/predict_news">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=predict_news&theme=buefy" />
+</a>
 
+<a href="https://github.com/hieplt23/student_grade_prediction">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=student_grade_prediction&theme=buefy" />
+</a>
 <br />
 <br />
 
