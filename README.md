@@ -16,12 +16,12 @@ Hello, I am Hiep Le, an AI and C++ programmer. I am interested in machine learni
 <a href="https://github.com/hieplt23/student_grade_prediction">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=student_grade_prediction&theme=buefy" />
 </a>
-<br />
+
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://github.com/hieplt23/vn_time_use_visualization">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=vn_time_use_visualization&theme=buefy" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<br />
+
+
