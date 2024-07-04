@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hello, I am Hiep Le, an AI and C++ programmer. I am interested in machine learning, computer vision, algorithms, and continually updating myself with the latest technologies and techniques.<br>
+Hello, I am Hiep, an AI and C++ programmer. I am interested in machine learning, computer vision, algorithms, and continually updating myself with the latest technologies and techniques.<br>
 ## 📫 How to reach me: 
 
  Email: lethanhhiep0220@gmail.com
