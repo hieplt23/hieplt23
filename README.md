@@ -22,6 +22,9 @@ Hello, I am Hiep Le, an AI and C++ programmer. I am interested in machine learni
 <a href="https://github.com/hieplt23/vn_time_use_visualization">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=vn_time_use_visualization&theme=buefy" />
 </a>
-<br />
+
+<a href="https://github.com/hieplt23/flappy_bird_deep_Q_learning_pytorch">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=flappy_bird_deep_Q_learning_pytorch&theme=buefy" />
+</a>
 
 
