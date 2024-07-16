@@ -17,11 +17,17 @@ Hello, I am Hiep, an AI and C++ programmer. I am interested in machine learning,
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=student_grade_prediction&theme=buefy" />
 </a>
 
-<br />
+<br/>
+
+<a href="https://github.com/hieplt23/car_counter_yolo">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=car_counter_yolo&theme=buefy" />
+</a>
 
 <a href="https://github.com/hieplt23/vn_time_use_visualization">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=vn_time_use_visualization&theme=buefy" />
 </a>
+
+<br/>
 
 <a href="https://github.com/hieplt23/flappy_bird_deep_Q_learning_pytorch">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=flappy_bird_deep_Q_learning_pytorch&theme=buefy" />
