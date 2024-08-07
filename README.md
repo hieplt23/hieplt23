@@ -23,9 +23,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=car_counter_yolo&theme=buefy" />
 </a>
 
-<a href="https://github.com/hieplt23/quick_draw">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=quick_draw&theme=buefy" />
-</a>
+
 
 <br/>
 
