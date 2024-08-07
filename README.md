@@ -1,5 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
-### ![WelcomeCatGIF](https://github.com/user-attachments/assets/0859c4f2-465d-46e8-a9e1-b78e438e407f)
+<p align="center">
+  <img width = 350 src="https://github.com/user-attachments/assets/0859c4f2-465d-46e8-a9e1-b78e438e407f" alt="WelcomeCatGIF" />
+</p>
 
 <p>Hiep here✌️. AI Engineer driving innovation in machine learning, computer vision, and algorithms. Constantly exploring cutting-edge tech to create impactful solutions. Passionate about shaping the future of AI.</p>
 <code><img height="30" alt="C++" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
