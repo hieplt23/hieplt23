@@ -23,7 +23,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=car_counter_yolo&theme=buefy" />
 </a>
 
-
+<a href="https://github.com/hieplt23/quick_draw">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=quick_draw&theme=buefy" />
+</a>
 
 <br/>
 
@@ -34,5 +36,6 @@
 <a href="https://github.com/hieplt23/vn_time_use_visualization">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=vn_time_use_visualization&theme=buefy" />
 </a>
+</br>
 
 
