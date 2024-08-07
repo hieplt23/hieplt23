@@ -1,9 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hello, I am Hiep, an AI engineer. I am interested in machine learning, computer vision, algorithms, and continually updating myself with the latest technologies and techniques.<br>
-## 📫 How to reach me: 
+### ![WelcomeCatGIF](https://github.com/user-attachments/assets/0859c4f2-465d-46e8-a9e1-b78e438e407f)
 
- Email: lethanhhiep0220@gmail.com
- 
+<p>   Hiep here. AI Engineer driving innovation in machine learning, computer vision, and algorithms. Constantly exploring cutting-edge tech to create impactful solutions. Passionate about shaping the future of AI.</p>
 <code><img height="30" alt="C++" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
 <code><img height="30" alt="Python" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code>
 
