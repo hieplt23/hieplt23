@@ -38,4 +38,8 @@
 </a>
 </br>
 
+<a href="https://github.com/hieplt23/ascii_generator">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=ascii_generator&theme=buefy" />
+</a>
+
 
