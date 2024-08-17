@@ -4,8 +4,8 @@
 </p>
 
 <p>Hiep here✌️. AI Engineer driving innovation in machine learning, computer vision, and algorithms. Constantly exploring cutting-edge tech to create impactful solutions. Passionate about shaping the future of AI.</p>
-<code><img height="30" alt="C++" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
-<code><img height="30" alt="Python" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code>
+<code><img height="40" alt="C++" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></code>
+<code><img height="45" alt="Python" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"></code>
 
 #### Top Repositories
 
