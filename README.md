@@ -45,4 +45,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=ascii_generator&theme=buefy" />
 </a>
 
+<a href="https://github.com/hieplt23/bouncing_balls.git">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=bouncing_balls&theme=buefy" />
+</a>
+</br>
+
 
