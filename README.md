@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Welcome to my page👋👋👋</h2>
+  <h2>Welcome to my page! 👏🏻👏🏻👏🏻</h2>
 </div>
 <p align="center">
   <img width = 350 src="https://github.com/user-attachments/assets/0859c4f2-465d-46e8-a9e1-b78e438e407f" alt="WelcomeCatGIF" />
