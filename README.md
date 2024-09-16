@@ -1,9 +1,9 @@
 <div align="center">
   <h2>Welcome to my page 👏🏻👏🏻👏🏻</h2>
 </div>
-<p align="center">
+<!-- <p align="center">
   <img width = 350 src="https://github.com/user-attachments/assets/0859c4f2-465d-46e8-a9e1-b78e438e407f" alt="WelcomeCatGIF" />
-</p>
+</p> -->
 
 <p>Hi✌️, I'm Hiep - an AI-focused software engineer with an insatiable passion for cutting-edge tech. Always learning, always coding, always pushing the boundaries of what's possible in AI. Let's innovate together!</p>
 <code><img height="40" alt="C++" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></code>
