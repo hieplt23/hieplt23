@@ -5,7 +5,7 @@
   <img width = 350 src="https://github.com/user-attachments/assets/0859c4f2-465d-46e8-a9e1-b78e438e407f" alt="WelcomeCatGIF" />
 </p> -->
 
-<p>Hi✌️, I'm Hiep - an AI-focused software engineer with an insatiable passion for cutting-edge tech. Always learning, always coding, always pushing the boundaries of what's possible in AI. Let's innovate together!</p>
+<p>Hi✌️, I'm Hiep - an AI-focused software engineer with an insatiable passion for cutting-edge tech. Always learning, always coding, always pushing the boundaries of what's possible in AI.</p>
 <code><img height="40" alt="C++" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></code>
 <code><img height="45" alt="Python" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"></code>
 <code><img height="45" alt="Java" src="https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png"></code>
