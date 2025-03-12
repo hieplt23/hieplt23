@@ -12,6 +12,14 @@
 
 #### Top Repositories
 
+<a href="https://github.com/hieplt23/fasterrcnn_voc2012.git">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=fasterrcnn_voc2012&theme=buefy" />
+</a>
+
+<a href="https://github.com/hieplt23/quick_draw">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=quick_draw&theme=buefy" />
+</a>
+
 <a href="https://github.com/hieplt23/predict_news">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=predict_news&theme=buefy" />
 </a>
@@ -20,20 +28,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=student_grade_prediction&theme=buefy" />
 </a>
 
-<br/>
-
 <a href="https://github.com/hieplt23/football_analysis">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=football_analysis&theme=buefy" />
-</a>
-
-<a href="https://github.com/hieplt23/quick_draw">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=quick_draw&theme=buefy" />
-</a>
-
-<br/>
-
-<a href="https://github.com/hieplt23/fasterrcnn_voc2012.git">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=fasterrcnn_voc2012&theme=buefy" />
 </a>
 
 <a href="https://github.com/hieplt23/flappy_bird_deep_Q_learning_pytorch">
