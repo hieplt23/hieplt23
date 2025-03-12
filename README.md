@@ -32,6 +32,11 @@
 
 <br/>
 
+<a href="https://github.com/hieplt23/fasterrcnn_voc2012.git">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=https://github.com/hieplt23/fasterrcnn_voc2012.git&theme=buefy" />
+</a>
+</br>
+
 <a href="https://github.com/hieplt23/flappy_bird_deep_Q_learning_pytorch">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieplt23&repo=flappy_bird_deep_Q_learning_pytorch&theme=buefy" />
 </a>
