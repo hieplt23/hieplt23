@@ -6,8 +6,8 @@
 </p> -->
 
 <p>Hi✌️, I'm Hiep</p>
-<code><img height="40" alt="C++" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></code>
 <code><img height="45" alt="Python" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"></code>
+<code><img height="40" alt="C++" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></code>
 <code><img height="45" alt="Java" src="https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png"></code>
 
 #### Top Repositories
